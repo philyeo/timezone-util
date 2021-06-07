@@ -1,0 +1,26 @@
+{
+  "name": "timezone-util",
+  "version": "1.0.0",
+  "description": "A timezone utility tool example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philyeo/timezone-util.git"
+  },
+  "keywords": [
+    "timezone"
+  ],
+  "author": "Philip Yeo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philyeo/timezone-util/issues"
+  },
+  "homepage": "https://github.com/philyeo/timezone-util#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33"
+  }
+}
